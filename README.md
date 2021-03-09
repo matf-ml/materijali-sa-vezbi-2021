@@ -7,7 +7,7 @@ Profesor: Jovana Kovačević
 
 # Video materijali vežbe
 
-Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan_cugurovc [at] matf.bg.ac.rs. 
+Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan_cugurovic [at] matf.bg.ac.rs. 
 
 * Nedelja 1: [link](https://matf.webex.com/matf/ldr.php?RCID=cab826eb8dfd474db17b3ae1bd71473c) 
 
