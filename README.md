@@ -12,3 +12,5 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 * Nedelja 1: [link](https://matf.webex.com/matf/ldr.php?RCID=cab826eb8dfd474db17b3ae1bd71473c) 
 
 * Nedelja 2: [link](https://matf.webex.com/matf/ldr.php?RCID=2846e10d6c2c425693a33c357b60fb96)
+
+* Nedelja 3: [link](https://matf.webex.com/matf/ldr.php?RCID=c024aaf9d90e42d7aa1f787f5ac06dcd)
