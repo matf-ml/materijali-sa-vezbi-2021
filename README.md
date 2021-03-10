@@ -1,9 +1,12 @@
-# materijali-sa-vezbi-2021
+# Mašinsko učenje
 
-Ovaj repozitorijum sadrži materijale sa vežbi kursa Mašinsko učenje u školskoj 2020/21. 
+Ovaj repozitorijum sadrži materijale sa vežbi kursa `Mašinsko učenje` u školskoj 2020/21 godini.
 
 Asistenti na kursu: Milan Čugurović i Anđelka Zečević
+
 Profesor: Jovana Kovačević
+
+Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 
 # Video materijali vežbe
 
