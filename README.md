@@ -1,12 +1,21 @@
 # Mašinsko učenje
 
-Ovaj repozitorijum sadrži materijale sa vežbi kursa `Mašinsko učenje` u školskoj 2020/21 godini.
+Ovaj repozitorijum sadrži materijale sa vežbi kursa `Mašinsko učenje` u školskoj 2020/21. godini.
 
 Asistenti na kursu: Milan Čugurović i Anđelka Zečević
 
 Profesor: Jovana Kovačević
 
 Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
+
+# Sadržaj časova po nedeljama
+
+|Nedelja | Teme |
+|:--------|:------|
+| 1 | Uvod u programski jezik `Python` i pakete `numpy`, `pandas` i `matplotlib`|
+| 2 | Matematički podsetnik: osnovni koncepti linearne algebre, matematičke analize i verovatnoće i statistike |
+| 3 | Linearna regresija: osnovni koncepti i podrška `scikit-learn` paketa |
+
 
 # Video materijali vežbe
 
