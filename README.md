@@ -16,7 +16,8 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 2 | Matematički podsetnik: osnovni koncepti linearne algebre, matematičke analize i verovatnoće i statistike |
 | 3 | Linearna regresija: osnovni koncepti i podrška `scikit-learn` paketa |
 | 4 | Linearna regresija: analiza atributa i tezinska regresija. Klasifikacija uvod, mere kvaliteta modela. Primer. |
-|5 | Rad sa tekstom. Problem nebalansirane klasifikacije. ROC kriva. Under-Sampling. Over-Sampling. |
+| 5 | Rad sa tekstom. Problem nebalansirane klasifikacije. ROC kriva. Under-Sampling. Over-Sampling. |
+| 6 | SMOTE Algoritam. Logisticka Regresija sa tezinama. Viseklasna klasifikacija. Kerneli. Linearni i Polinomijalni SVM. Izbor vrednosti hiperparametara. |
 
 # Video materijali vežbe
 
@@ -30,7 +31,6 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 
 * Nedelja 4: [link](https://matf.webex.com/matf/ldr.php?RCID=8c68f8230f8447a390d08ff1d34616f6)
 
-* Nedelja 5:
-  * cas1 [link](https://matf.webex.com/matf/ldr.php?RCID=a05ead54af3d905eeebfeffee4217266)
-  * cas2 [link](https://matf.webex.com/matf/ldr.php?RCID=fbe0d9baece718058c4a83a760ee3f9b)
-  * cas3 [link](https://matf.webex.com/matf/ldr.php?RCID=ce95b0b5160f4c46ce8cb96517b6fe79)
+* Nedelja 5: [link1](https://matf.webex.com/matf/ldr.php?RCID=a05ead54af3d905eeebfeffee4217266), [link2](https://matf.webex.com/matf/ldr.php?RCID=fbe0d9baece718058c4a83a760ee3f9b), [link3](https://matf.webex.com/matf/ldr.php?RCID=ce95b0b5160f4c46ce8cb96517b6fe79)
+
+* Nedelja 6: [link](https://matf.webex.com/matf/ldr.php?RCID=f6a5224f57344b9a90c12de96c63afb7)
