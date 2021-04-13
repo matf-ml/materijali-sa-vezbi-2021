@@ -19,6 +19,7 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 5 | Rad sa tekstom. Problem nebalansirane klasifikacije. ROC kriva. Under-Sampling. Over-Sampling. |
 | 6 | SMOTE Algoritam. Logisticka Regresija sa tezinama. Viseklasna klasifikacija. Kerneli. Linearni i Polinomijalni SVM. Izbor vrednosti hiperparametara. |
 | 7 | Nadaraja-Votson regresija. Stabla odlucivanja. Slucajne šume. Prosta agregacija (Bagging). Pojačavanje (Boosting). |
+| 8 | Selekcija i evaluacija modela: train-test podela; cross-validation; train-validation-test podela; train-validation-test podela + cross-validation. Regularizacija. |
 
 # Video materijali vežbe
 
@@ -37,3 +38,5 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 * Nedelja 6: [link](https://matf.webex.com/matf/ldr.php?RCID=f6a5224f57344b9a90c12de96c63afb7)
 
 * Nedelja 7: [link](https://matf.webex.com/matf/ldr.php?RCID=9bf49d0147b14d1292628372a8026a3d)
+
+* Nedelja 8: [link](https://matf.webex.com/matf/ldr.php?RCID=12314ef781974bd981251166a0224aaf)
