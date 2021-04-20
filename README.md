@@ -20,6 +20,7 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 6 | SMOTE Algoritam. Logisticka Regresija sa tezinama. Viseklasna klasifikacija. Kerneli. Linearni i Polinomijalni SVM. Izbor vrednosti hiperparametara. |
 | 7 | Nadaraja-Votson regresija. Stabla odlucivanja. Slucajne šume. Prosta agregacija (Bagging). Pojačavanje (Boosting). |
 | 8 | Selekcija i evaluacija modela: train-test podela; cross-validation; train-validation-test podela; train-validation-test podela + cross-validation. Regularizacija. |
+| 9 | Potpuno-povezane neuronske mreze. Uvod. Unakrsna validacija. Validacija. Klasifikacija i regresija. Cuvanje modela. |
 
 # Video materijali vežbe
 
@@ -40,3 +41,5 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 * Nedelja 7: [link](https://matf.webex.com/matf/ldr.php?RCID=9bf49d0147b14d1292628372a8026a3d)
 
 * Nedelja 8: [link](https://matf.webex.com/matf/ldr.php?RCID=12314ef781974bd981251166a0224aaf)
+
+* Nedelja 9: [link](https://matf.webex.com/matf/ldr.php?RCID=1c0e5899942140448d81c441ac28626d)
