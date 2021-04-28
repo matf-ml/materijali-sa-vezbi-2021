@@ -21,8 +21,7 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 7 | Nadaraja-Votson regresija. Stabla odlucivanja. Slucajne šume. Prosta agregacija (Bagging). Pojačavanje (Boosting). |
 | 8 | Selekcija i evaluacija modela: train-test podela; cross-validation; train-validation-test podela; train-validation-test podela + cross-validation. Regularizacija. |
 | 9 | Potpuno-povezane neuronske mreze. Uvod. Unakrsna validacija. Validacija. Klasifikacija i regresija. Cuvanje modela. |
-| 10 | Konvolutivne neuronske mreze. Upoznavanje API-ja biblioteke Keras.
-Klasifikacija slika. Klasifikacija filmskih pregleda prema sentimentu. |
+| 10 | Konvolutivne neuronske mreze. Upoznavanje API-ja biblioteke Keras. Klasifikacija slika. Klasifikacija filmskih pregleda prema sentimentu. |
 
 # Video materijali vežbe
 
