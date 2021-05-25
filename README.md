@@ -14,15 +14,16 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 |:--------|:------|
 | 1 | Uvod u programski jezik `Python` i pakete `numpy`, `pandas` i `matplotlib`|
 | 2 | Matematički podsetnik: osnovni koncepti linearne algebre, matematičke analize i verovatnoće i statistike |
-| 3 | Linearna regresija: osnovni koncepti i podrška `scikit-learn` paketa |
-| 4 | Linearna regresija: analiza atributa i tezinska regresija. Klasifikacija uvod, mere kvaliteta modela. Primer. |
+| 3 | Linearna regresija: osnovni koncepti i podrška paketa `scikit-learn`|
+| 4 | Linearna regresija: analiza atributa i težinska regresija. Klasifikacija uvod, mere kvaliteta modela. Primer. |
 | 5 | Rad sa tekstom. Problem nebalansirane klasifikacije. ROC kriva. Under-Sampling. Over-Sampling. |
-| 6 | SMOTE Algoritam. Logisticka Regresija sa tezinama. Viseklasna klasifikacija. Kerneli. Linearni i Polinomijalni SVM. Izbor vrednosti hiperparametara. |
-| 7 | Nadaraja-Votson regresija. Stabla odlucivanja. Slucajne šume. Prosta agregacija (Bagging). Pojačavanje (Boosting). |
+| 6 | SMOTE Algoritam. Logistička regresija sa težinama. Višeklasna klasifikacija. Kerneli. Linearni i polinomijalni SVM. Izbor vrednosti hiperparametara. |
+| 7 | Nadaraja-Votson regresija. Stabla odlučivanja. Slučajne šume. Prosta agregacija (bagging). Pojačavanje (boosting). |
 | 8 | Selekcija i evaluacija modela: train-test podela; cross-validation; train-validation-test podela; train-validation-test podela + cross-validation. Regularizacija. |
-| 9 | Potpuno-povezane neuronske mreze. Uvod. Unakrsna validacija. Validacija. Klasifikacija i regresija. Cuvanje modela. |
-| 10 | Konvolutivne neuronske mreze. Upoznavanje API-ja biblioteke Keras. Klasifikacija slika. Klasifikacija filmskih pregleda prema sentimentu. |
+| 9 | Potpuno-povezane neuronske mreže. Uvod. Unakrsna validacija. Validacija. Klasifikacija i regresija. Čuvanje modela. |
+| 10 | Konvolutivne neuronske mreže. Upoznavanje API-ja biblioteke Keras. Klasifikacija slika. Klasifikacija filmskih pregleda prema sentimentu. |
 | 12 | Mreže razno: sequence2sequence arhitektura, autoenkoderi i generativne suparničke mreže |
+| 13 | Nenadgledano učenje: metod k-sredina, analiza glavnih komponenti |
 
 
 # Video materijali vežbe
@@ -50,4 +51,6 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 * Nedelja 10: [link](https://matf.webex.com/matf/ldr.php?RCID=7d63d3c8a3434e43b6bff6e9a066bbda)
 
 * Nedelja 12: [link](https://matf.webex.com/matf/ldr.php?RCID=517d3caf1eb34c0187f389f582698965)
+
+* Nedelja 13: [link](https://matf.webex.com/matf/ldr.php?RCID=e19e2e26ab5b41e784588ca9088ebd19)
 
