@@ -22,6 +22,8 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 8 | Selekcija i evaluacija modela: train-test podela; cross-validation; train-validation-test podela; train-validation-test podela + cross-validation. Regularizacija. |
 | 9 | Potpuno-povezane neuronske mreze. Uvod. Unakrsna validacija. Validacija. Klasifikacija i regresija. Cuvanje modela. |
 | 10 | Konvolutivne neuronske mreze. Upoznavanje API-ja biblioteke Keras. Klasifikacija slika. Klasifikacija filmskih pregleda prema sentimentu. |
+| 12 | Mreže razno: sequence2sequence arhitektura, autoenkoderi i generativne suparničke mreže |
+
 
 # Video materijali vežbe
 
@@ -46,3 +48,6 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 * Nedelja 9: [link](https://matf.webex.com/matf/ldr.php?RCID=1c0e5899942140448d81c441ac28626d)
 
 * Nedelja 10: [link](https://matf.webex.com/matf/ldr.php?RCID=7d63d3c8a3434e43b6bff6e9a066bbda)
+
+* Nedelja 12: [link](https://matf.webex.com/matf/ldr.php?RCID=517d3caf1eb34c0187f389f582698965)
+
