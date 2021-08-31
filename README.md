@@ -54,3 +54,6 @@ Video materijali su zaštićeni lozinkom. Kontaktirati asistente mejlom na milan
 
 * Nedelja 13: [link](https://matf.webex.com/matf/ldr.php?RCID=e19e2e26ab5b41e784588ca9088ebd19)
 
+# Završni ispit 
+
+Informacije o završnom ispitu i primere rokova možete pronaći [ovde](./zavrsni_ispit).
